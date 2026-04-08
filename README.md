@@ -56,5 +56,6 @@
 ---
 
 ## 🌐 Connect With Me  
-📧 Email: your-email@example.com  
-💼 LinkedIn: Add Your Link Here  
+📧 Email:umangpatel8070@gmail.com  
+💼 LinkedIn:https://www.linkedin.com/in/patel-umang-185a95371/
+
