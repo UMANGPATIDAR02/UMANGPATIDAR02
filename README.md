@@ -20,11 +20,12 @@
 
 ---
 
-## 📊 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UMANGPATIDAR02&layout=compact&theme=tokyonight" />
-</p>
+## 🛡️ Cyber Arsenal  
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UMANGPATIDAR02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UMANGPATIDAR02&theme=tokyonight" />
+</p>
 ---
 
 ## 🧠 Skills & Tools  
