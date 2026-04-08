@@ -46,6 +46,7 @@
 ## 📂 Featured Projects  
 🔗 [Burp Suite Practice](https://github.com/UMANGPATIDAR02/Burp-suite)  
 🔗 [Nessus Project](https://github.com/UMANGPATIDAR02/Nessus)  
+🔗 [Wireshark Traffic Analysis Project](https://github.com/UMANGPATIDAR02/-Wireshark-Network-Analysis-Project)
 
 ---
 
