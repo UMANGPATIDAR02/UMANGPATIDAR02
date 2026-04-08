@@ -30,16 +30,27 @@
 
 ## 🧠 Skills & Tools  
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" /><br>
   <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
   <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Nessus-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nmap-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Live Activity)  
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UMANGPATIDAR02&theme=tokyo-night" />
+</p>
 
 ---
 
